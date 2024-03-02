@@ -9,7 +9,7 @@ My personal .files, always work in progress...
 - zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
 
 # Tmux
-## Plugins:
+## Plugins:
 - 'tmux-plugins/tpm'
 - 'tmux-plugins/tmux-sensible'
 - 'christoomey/vim-tmux-navigator'
